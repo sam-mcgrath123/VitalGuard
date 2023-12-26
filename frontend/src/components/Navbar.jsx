@@ -19,7 +19,7 @@ function Navbar() {
 							</NavLink>
 						</li>
 						<li className="nav-item active me-lg-3">
-							<NavLink className="nav-link" to="/">
+							<NavLink className="nav-link" to="/roompatients">
 								Rooms & Patients
 							</NavLink>
 						</li>
